@@ -1,0 +1,1 @@
+course://web.backend/?name=%22Muts%20Anastasia%22&group=%22FEI-21%22&subgroup=%22Subgroup%202%22#chokubb
